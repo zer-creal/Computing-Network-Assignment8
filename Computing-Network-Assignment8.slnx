@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Computing-Network-Assignment8/Computing-Network-Assignment8.vcxproj" Id="5752e82d-bbcb-4985-bd2a-42950af9edc6" />
+  <Project Path="Task2/Task2.vcxproj" Id="63858a7d-26c5-4a86-90fe-d3a9356d0915" />
+  <Project Path="Task3/Task3.vcxproj" Id="7e762d70-58ca-465f-8652-68bd467d5358" />
+</Solution>
